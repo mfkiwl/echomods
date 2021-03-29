@@ -3170,7 +3170,9 @@ Bbox-089C716D // mimite2000
   * badgy 2.9" 296x128 pixel
   * TTGO ESP32 2.9"  display
   * Tilt sensor / gyro /  .. ?
-  * DEFCON2018 badge https://www.cio.com.au/slideshow/355919/defcon-badge-unlike-anything-ever-seen/
+  * DEFCON2018 badge httRead more : 
+https://www.fpga4fun.com/
+for good tutorialsps://www.cio.com.au/slideshow/355919/defcon-badge-unlike-anything-ever-seen/
 * Working on the [WVP](/matty/wvp.md)
 
 #### 2019-01-08 Awesome readmes
@@ -3867,13 +3869,118 @@ Playing with ESP32 ideas
 #### 2020-12-23 Cleaning the docs
 
 * Ongoing: tagging images for missing experiments, cleaning around
-* @todo FUP i2s
+* @todo FUP i2s w Andrew
 * @todo energy harvesting + low power blink
-* @todo mechanical runs on wirephantom
+* @done mechanical runs on wirephantom
 * @todo finalize article 
-* @todo add DRV2700 mentions ?
+* @done add DRV2700 mentions ?
 * @todo clear hilbert ImportError: libf77blas.so.3: cannot open shared object file: No such file or directory
-* @todo Worklog: why not working on Rpi4 out of the box?
+* @done Worklog: why not working on Rpi4 out of the box? --> issue with XFERs, see 2020-12-29 in worklog
+
+#### 2020-12-29 Cleaning RPI4 issues with pyUn0
+
+* pastebin alternative: https://sebsauvage.net/paste/
+* Replacing XFERS! With read/write bytes
+* Read some good verilog tutos : https://www.fpga4fun.com/ for good tutorials - still looking for the interactive verilog stuff
+
+#### 2021-01-10 New years goes fast
+
+Blink of an eye.. already 10th. Week off ahead. Playing.
+* CLD Acquisitions two other BK probes
+* Do library pyUn0
+* Do image creation pyUn0
+* DONE Try slower images with first BK 
+* FUp Andrew
+* DONE FUp Renata
+* Push page VGA
+* FUp Jan
+* FUp Jacques
+* FUp Minie v1.6 . AD8332.	
+
+Other stuff:
+* Dashboard revenues open projects https://www.coryzue.com/open/
+* Do musik stuff
+* Short 2021 story =)
+
+#### 2021-01-15 First days off go fast
+
+* Getting reviews comments right: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730
+
+* Site web
+  * usb un0rick - DONE
+  * vga un0rick - DONE
+  * lit3rick -- Démo vidéo + GIF - DONE
+  * lit3rick micropython - DONE
+* Fun stuff
+  * https://www.digitpress.com/library/books/book_complete_history_of_video_games.pdf
+  * https://retroarcadia.blog/2021/01/13/book-review-the-games-that-werent-by-frank-gasking/
+
+* PCB antenna reference: https://www.ti.com/lit/an/swra117d/swra117d.pdf
+
+* @follow Orders:
+  * ESP32 batteries
+  * Batteries
+  * PiNoir
+  * BoitesASon
+  * MHP30
+
+#### 2021-01-16 Writing tips
+
+* Writers decks
+  * https://fabuladeck.com/
+  * game of lenses
+  * 
+* https://www.turnerstories.com/blog/2019/3/1/how-to-structure-a-short-story
+* https://www.thebalancecareers.com/rules-writing-great-short-story-1277281
+* https://www.turnerstories.com/blog/2020/11/25/the-10-steps-to-successfully-write-short-stories
+* https://www.philipbrewer.net/story-structure-in-short-stories/
+* https://www.masterclass.com/articles/how-to-plot-a-short-story
+* https://www.masterclass.com/articles/how-to-write-paradelle-poetry#want-to-learn-more-about-poetry
+* https://blog.reedsy.com/how-to-write-a-short-story/
+
+* Things
+  * Mood, plot, action, backstory, character
+  * Message written
+
+@icn-camera
+
+#### 2021-02-06 Volume is here
+
+* 4k words reached, now editing. Plaything is here.
+* support to michael for his experiment
+* ST25DV64K !!
+
+#### 2021-02-11 Some stuff to read 
+
+* Growth ? 
+  * https://www.indiehackers.com/post/2-167-new-subscribers-in-48-hours-one-tactic-you-should-try-283601e91d
+  * https://www.indiehackers.com/post/6-116-from-my-product-launch-no-audience-here-is-how-full-breakdown-8a00ba7992
+  * https://www.indiehackers.com/post/17-tips-for-great-copywriting-5d4786ddf7
+  * https://www.indiehackers.com/post/my-step-by-step-guide-to-landing-pages-that-convert-9daefb2064
+
+* LIO shop to be filled in! As soon as items reach =)
+
+* Need to push on the short story
+* Max14866 design released - https://github.com/kelu124/echomods/tree/master/include/MAX14866
+* Try and push some links: http://un0rick.cc/curated
+
+* FX2: https://github.com/makestuff/fx2tools/tree/master/fx2loader
+  * Backup FX2LP's existing 128kbit (16kbyte) EEPROM data
+  * Write SDCC-generated I8HEX file to FX2LP's RAM
+
+
+#### 2021-02-28 Back from the green 
+
+* https://www.monamenagementjardin.fr/abri-de-jardin-en-bois-d-epicea-brut-domeo-4-12-m.html 
+* SUSS: article from v3 to v4, inc. images
+
+
+#### 2021-03-14 piday
+
+* new uncle !
+* altium version of lit3rick making progress
+* AD9835 for DDS / dds arbitrary waveform generator ? -- http://electronics-diy.com/electronic_schematic.php?id=968
+* PCBs for max14866 received.. mouser delayed
 
 =======
 

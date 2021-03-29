@@ -252,9 +252,17 @@
 * __[Unrefed file]__ :no_entry: `/matty/20201104a/mkimg.py` : No references of this file.
 * __[Unrefed file]__ :no_entry: `/matty/20201107a/mkimg.py` : No references of this file.
 * __[Unrefed file]__ :no_entry: `/matty/20201108a/Readme.md` : No references of this file.
+* __[Unrefed file]__ :no_entry: `/matty/20201108a/alaw.py` : No references of this file.
+* __[Unrefed file]__ :no_entry: `/matty/20201108a/dft.py` : No references of this file.
 * __[Unrefed file]__ :no_entry: `/matty/20201108a/mkimg.py` : No references of this file.
 * __[Unrefed file]__ :no_entry: `/matty/20201223a/Readme.md` : No references of this file.
 * __[Unrefed file]__ :no_entry: `/matty/20201223a/mkimg.py` : No references of this file.
+* __[Unrefed file]__ :no_entry: `/matty/20201230a/Readme.md` : No references of this file.
+* __[Unrefed file]__ :no_entry: `/matty/20201230a/bk8536.exp.md` : No references of this file.
+* __[Unrefed file]__ :no_entry: `/matty/20201230a/brd35.exp.md` : No references of this file.
+* __[Unrefed file]__ :no_entry: `/matty/20201230a/duc2m.exp.md` : No references of this file.
+* __[Unrefed file]__ :no_entry: `/matty/20201230a/hp2121.exp.md` : No references of this file.
+* __[Unrefed file]__ :no_entry: `/matty/20201230a/pyUn0.py` : No references of this file.
 * __[Unrefed file]__ :no_entry: `/matty/HV/Readme.md` : No references of this file.
 * __[Unrefed file]__ :no_entry: `/matty/LawA/comparatif/data/pyUn0.py` : No references of this file.
 * __[Unrefed file]__ :no_entry: `/matty/SPI/serialflash.py` : No references of this file.

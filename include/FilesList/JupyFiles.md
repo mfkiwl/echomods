@@ -1,4 +1,5 @@
 * [20170702-TestATLDuinoTerface.ipynb](/retroATL3/data/20170702-TestATLDuinoTerface.ipynb). File used in: [`/retroATL3/Readme.md`](/retroATL3/Readme.md), [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [20210311.ipynb](/include/20210311.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20201128a-Setup.ipynb](/include/hp/20201128a/20201128a-Setup.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20201128a-Params.ipynb](/include/hp/20201128a/20201128a-Params.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180216a - Testing pulser and ADC.ipynb](/include/20180216a/20180216a - Testing pulser and ADC.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
@@ -6,10 +7,52 @@
 * [20171024-RLC.ipynb](/include/RLC/20171024-RLC.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180417a-Comparison.ipynb](/include/20180417a/20180417a-Comparison.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md), [`/include/20180417a/Readme.md`](/include/20180417a/Readme.md).
 * [20200808r-Opening s1p files.ipynb](/include/20200809r/20200808r-Opening s1p files.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md), [`/include/experiments/auto/Code_20200808r.md`](/include/experiments/auto/Code_20200808r.md).
+* [MappingCommunity-new.ipynb](/include/community/MappingCommunity-new.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [MappingCommunity.ipynb](/include/community/MappingCommunity.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180103-Felix.ipynb](/include/community/Felix/20180103a/20180103-Felix.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md), [`/include/experiments/auto/Code_20180103a.md`](/include/experiments/auto/Code_20180103a.md).
 * [20180210_jt_fast_batch.ipynb](/include/community/Felix/20180208/20180210_jt_fast_batch.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180620a-Uwe.ipynb](/include/community/Uwe/20180620a/20180620a-Uwe.ipynb). File used in: [`/include/QuickStart.md`](/include/QuickStart.md), [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md), [`/include/community/Uwe/20180620a/Readme.md`](/include/community/Uwe/20180620a/Readme.md).
+* [notebook1.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/tests/files/notebook1.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [notebook_tags.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/tests/files/notebook_tags.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [latex-linked-image.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/tests/files/latex-linked-image.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [notebook2.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/tests/files/notebook2.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [notebook3_with_errors.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/tests/files/notebook3_with_errors.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [notebook_jl.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/tests/files/notebook_jl.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [markdown_display_priority.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/tests/files/markdown_display_priority.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [notebook4_jpeg.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/tests/files/notebook4_jpeg.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Widget_List.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/tests/files/Widget_List.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [MixedMarkdown.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/preprocessors/tests/files/MixedMarkdown.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [HelloWorld.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/preprocessors/tests/files/HelloWorld.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [attachment.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/exporters/tests/files/attachment.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [pngmetadata.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/exporters/tests/files/pngmetadata.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [prompt_numbers.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/exporters/tests/files/prompt_numbers.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [rawtest.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/exporters/tests/files/rawtest.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [notebook2.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/exporters/tests/files/notebook2.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [svg.ipynb](/include/community/lib/python3.6/site-packages/nbconvert/exporters/tests/files/svg.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [UnicodePy3.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/UnicodePy3.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Clear Output.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Clear Output.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Parallel Execute A.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Parallel Execute A.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Interrupt.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Interrupt.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Skip Exceptions.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Skip Exceptions.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Skip Exceptions with Cell Tags.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Skip Exceptions with Cell Tags.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [update-display-id.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/update-display-id.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Sleep1s.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Sleep1s.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Autokill.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Autokill.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Other Comms.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Other Comms.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [JupyterWidgets.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/JupyterWidgets.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Parallel Execute B.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Parallel Execute B.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Disable Stdin.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Disable Stdin.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [HelloWorld.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/HelloWorld.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Factorials.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Factorials.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Unicode.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Unicode.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Empty Cell.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Empty Cell.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Inline Image.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Inline Image.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [SVG.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/SVG.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Output.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Output.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [Check History in Memory.ipynb](/include/community/lib/python3.6/site-packages/nbclient/tests/files/Check History in Memory.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [empty.ipynb](/include/community/lib/python3.6/site-packages/notebook/bundler/tests/resources/empty.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [nbagg_uat.ipynb](/include/community/lib/python3.6/site-packages/matplotlib/backends/web_backend/nbagg_uat.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [plot_un0rick_anti_aliasing_filter.ipynb](/include/community/Tim/FilterWork/un0rick_aa_filter/Plots_jupyter/plot_un0rick_anti_aliasing_filter.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180415r-lit.tbo.ipynb](/include/20180415r/20180415r-lit.tbo.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md), [`/include/20180415r/Readme.md`](/include/20180415r/Readme.md), [`/include/experiments/auto/20180415r.md`](/include/experiments/auto/20180415r.md), [`/include/experiments/auto/Code_20180415r.md`](/include/experiments/auto/Code_20180415r.md).
 * [20180217a - Testing pulser and ADC.ipynb](/include/20180217a/20180217a - Testing pulser and ADC.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180317a-Loops.ipynb](/include/bard/exp1/20180317a-Loops.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md), [`/include/bard/inside.md`](/include/bard/inside.md).
@@ -65,6 +108,8 @@
 * [20190510a.ipynb](/matty/20190510a/20190510a.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20190404a-NDT.ipynb](/matty/20190404a/20190404a-NDT.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20201108a.ipynb](/matty/20201108a/20201108a.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [20201108a-Compression.ipynb](/matty/20201108a/20201108a-Compression.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [20201108a-IQ.ipynb](/matty/20201108a/20201108a-IQ.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180227a-Loops.ipynb](/matty/20180227a/20180227a-Loops.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [TEST_USB.ipynb](/matty/v1.1/direct/TEST_USB.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180226a-Compare.ipynb](/matty/20180226a/20180226a-Compare.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
@@ -76,6 +121,7 @@
 * [20180814a-Server.ipynb](/matty/20180814a/20180814a-Server.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20200508a-MakePkls.ipynb](/matty/20200508a/20200508a-MakePkls.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20190415a-NDT.ipynb](/matty/20190415a/20190415a-NDT.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [20201230a-Processing.ipynb](/matty/20201230a/20201230a-Processing.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180224a-server.ipynb](/matty/20180224a/20180224a-server.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180224a-client.ipynb](/matty/20180224a/20180224a-client.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180721a-Server.ipynb](/matty/20180721a/20180721a-Server.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
@@ -86,6 +132,7 @@
 * [20200325a-Acquisitions.ipynb](/matty/20200325a/20200325a-Acquisitions.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20201103a.ipynb](/matty/20201103a/20201103a.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [a.20201026a.ipynb](/matty/20201026a/fpga_ctrl/a.20201026a.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
+* [20211103a-CheckHariharan.ipynb](/matty/20210311a/20211103a-CheckHariharan.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20201107b.ipynb](/matty/20201107a/20201107b.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20201107a.ipynb](/matty/20201107a/20201107a.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
 * [20180826a-Server.ipynb](/matty/20180826a/20180826a-Server.ipynb). File used in: [`/include/FilesList/JupyFiles.md`](/include/FilesList/JupyFiles.md).
