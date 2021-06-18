@@ -226,7 +226,13 @@
 
 * [./include/community/Dominic/Readme.md](/include/community/Dominic/Readme.md):  . _File not used._
 
+* [./include/community/Mikhail/Readme.md](/include/community/Mikhail/Readme.md):  . _File not used._
+
+* [./include/community/Jaroslaw/Readme.md](/include/community/Jaroslaw/Readme.md):  . _File not used._
+
 * [./include/community/Shinobu/Readme.md](/include/community/Shinobu/Readme.md):  . _File not used._
+
+* [./include/community/Tatyana/Readme.md](/include/community/Tatyana/Readme.md):  . _File not used._
 
 * [./include/community/Aniss/Readme.md](/include/community/Aniss/Readme.md):  . _File not used._
 
@@ -249,6 +255,8 @@
 * [./include/community/JB/Readme.md](/include/community/JB/Readme.md):  . _File not used._
 
 * [./include/community/Michael/Readme.md](/include/community/Michael/Readme.md):  . _File not used._
+
+* [./include/community/Jarede/Readme.md](/include/community/Jarede/Readme.md):  . _File not used._
 
 * [./include/community/Michele/Readme.md](/include/community/Michele/Readme.md):  . _File not used._
 
@@ -332,7 +340,7 @@
 
 * [./include/use_case_biblio/Readme.md](/include/use_case_biblio/Readme.md):  . File used in: [`/include/use_case_biblio/Readme.md`](/include/use_case_biblio/Readme.md).
 
-* [./include/images/kretzaw145ba/20180809a/Readme.md](/include/images/kretzaw145ba/20180809a/Readme.md):  . File used in: [`/include/experiments/auto/20180809a.md`](/include/experiments/auto/20180809a.md).
+* [./include/images/kretzaw145ba/20180809a/Readme.md](/include/images/kretzaw145ba/20180809a/Readme.md):  . File used in: [`/include/experiments/auto/20180809a.md`](/include/experiments/auto/20180809a.md), [`/include/experiments/auto/Code_20180809a.md`](/include/experiments/auto/Code_20180809a.md).
 
 * [./include/images/kretzaw145ba/20180812a/Readme.md](/include/images/kretzaw145ba/20180812a/Readme.md):  . _File not used._
 
@@ -650,6 +658,8 @@
 
 * [./gitbook/notebooks/20180831a-Client.md](/gitbook/notebooks/20180831a-Client.md):  . _File not used._
 
+* [./gitbook/notebooks/20201223a-brd35.md](/gitbook/notebooks/20201223a-brd35.md):  . _File not used._
+
 * [./gitbook/notebooks/20190103a-Client.md](/gitbook/notebooks/20190103a-Client.md):  . _File not used._
 
 * [./gitbook/notebooks/20170613-TestWithRawSignal.md](/gitbook/notebooks/20170613-TestWithRawSignal.md):  . _File not used._
@@ -667,6 +677,10 @@
 * [./gitbook/notebooks/20200325a-Acquisitions.md](/gitbook/notebooks/20200325a-Acquisitions.md):  . _File not used._
 
 * [./gitbook/notebooks/20190510a.md](/gitbook/notebooks/20190510a.md):  . _File not used._
+
+* [./gitbook/notebooks/20201230a-Processing.md](/gitbook/notebooks/20201230a-Processing.md):  . _File not used._
+
+* [./gitbook/notebooks/20201223a-bk8536.md](/gitbook/notebooks/20201223a-bk8536.md):  . _File not used._
 
 * [./gitbook/notebooks/20170714-TwoADCs-ProbeEnv.md](/gitbook/notebooks/20170714-TwoADCs-ProbeEnv.md):  . _File not used._
 
@@ -704,6 +718,8 @@
 
 * [./gitbook/notebooks/20171028-pulses.md](/gitbook/notebooks/20171028-pulses.md):  . _File not used._
 
+* [./gitbook/notebooks/20201223a-duc2m.md](/gitbook/notebooks/20201223a-duc2m.md):  . _File not used._
+
 * [./gitbook/notebooks/20180224a-client.md](/gitbook/notebooks/20180224a-client.md):  . _File not used._
 
 * [./gitbook/notebooks/20180511a-Enveloppe.md](/gitbook/notebooks/20180511a-Enveloppe.md):  . _File not used._
@@ -729,6 +745,8 @@
 * [./gitbook/notebooks/20180216a - Testing pulser and ADC.md](/gitbook/notebooks/20180216a - Testing pulser and ADC.md):  . _File not used._
 
 * [./gitbook/notebooks/20170714-TwoADCs-Probe.md](/gitbook/notebooks/20170714-TwoADCs-Probe.md):  . _File not used._
+
+* [./gitbook/notebooks/20201108a-Compression.md](/gitbook/notebooks/20201108a-Compression.md):  . _File not used._
 
 * [./gitbook/notebooks/20170612-ArduinoFFTed.md](/gitbook/notebooks/20170612-ArduinoFFTed.md):  . _File not used._
 
@@ -763,6 +781,8 @@
 * [./gitbook/notebooks/20181104b-Processing.md](/gitbook/notebooks/20181104b-Processing.md):  . _File not used._
 
 * [./gitbook/notebooks/20170930-AltPulser.md](/gitbook/notebooks/20170930-AltPulser.md):  . _File not used._
+
+* [./gitbook/notebooks/20201108a-IQ.md](/gitbook/notebooks/20201108a-IQ.md):  . _File not used._
 
 * [./gitbook/notebooks/20180227a-Loops.md](/gitbook/notebooks/20180227a-Loops.md):  . _File not used._
 
@@ -811,6 +831,10 @@
 * [./matty/20190329a/Readme.md](/matty/20190329a/Readme.md):  . _File not used._
 
 * [./matty/20180430a/Readme.md](/matty/20180430a/Readme.md):  . _File not used._
+
+* [./matty/20210425a/Readme.md](/matty/20210425a/Readme.md):  . File used in: [`/include/experiments/auto/20210424a.md`](/include/experiments/auto/20210424a.md).
+
+* [./matty/20210425a/hvmux_tests/csr_map.md](/matty/20210425a/hvmux_tests/csr_map.md):  . _File not used._
 
 * [./matty/20200605a/Readme.md](/matty/20200605a/Readme.md):  . _File not used._
 
@@ -911,6 +935,12 @@
 * [./matty/20190324a/Readme.md](/matty/20190324a/Readme.md):  . File used in: [`/include/experiments/auto/Code_20190324a.md`](/include/experiments/auto/Code_20190324a.md), [`/include/experiments/auto/20190324a.md`](/include/experiments/auto/20190324a.md).
 
 * [./matty/20180224b/Readme.md](/matty/20180224b/Readme.md):  . _File not used._
+
+* [./matty/20210424a/Readme.md](/matty/20210424a/Readme.md):  . File used in: [`/include/experiments/auto/20210424a.md`](/include/experiments/auto/20210424a.md).
+
+* [./matty/20210424a/hvmux_tests/csr_map.md](/matty/20210424a/hvmux_tests/csr_map.md):  . File used in: [`/include/experiments/auto/20210424a.md`](/include/experiments/auto/20210424a.md).
+
+* [./matty/20210424a/hvmux_tests/README.md](/matty/20210424a/hvmux_tests/README.md):  . File used in: [`/include/experiments/auto/20210424a.md`](/include/experiments/auto/20210424a.md).
 
 * [./matty/verilog/README.md](/matty/verilog/README.md):  . _File not used._
 
