@@ -2983,7 +2983,7 @@ __TODO__ reclean full repo one gob2 and lit.tbo are tested
 
 * Interesting [brochure on archive](https://ia601705.us.archive.org/17/items/Hewlett-Packard_Journal_Vol._34_No._10_1983-10_Hewlett-Packard/Hewlett-Packard_Journal_Vol._34_No._10_1983-10_Hewlett-Packard.pdf)
 * [Ultrasound tomography](https://archive.org/details/NASA_NTRS_Archive_19780004716)
-* [Resolution on imaging](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=5139&context=rtd) - 1969
+* [Resolution on imaging](  https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=5139&context=rtd) - 1969
 
 #### 2018-06-16 improving format system
 
@@ -3867,7 +3867,7 @@ Always wanted to have a riscv inside my board ;)
 * Very interesting: games : https://8bitworkshop.com/v3.6.0/?platform=verilog&file=clock_divider.v
 * lit3rick structure
 
-````
+```
  + lit3rick
    + images
    + doc
@@ -3896,7 +3896,7 @@ Always wanted to have a riscv inside my board ;)
    \ Changelog.md
    \ lit3rick.pdf
 
-````
+```
 
 #### 2020-08-18 break in the city
 
@@ -4125,6 +4125,72 @@ Other stuff:
 #### 2021-05-02 Already May
 
 * Progress on https://github.com/kelu124/us_rf_processing to actually get some precleaned data
+
+#### 2021-06-18 Already June
+
+* Did some progress on the ft600 interface, going up to 50MB/s. Could be better.
+  * Faster core for the ft600 ? Partnership with Bogdan?
+* lit3-32 back from the fab. 100dB gain really?
+  * Yeah for Canada
+* got an old 10PV, trifreq, to play with. Would be nice to interface it to 32Msps direct!
+* chip crisis:
+  * nothing for the ft600, daugther, lit3-32 and MUXes!
+* Doing progress with Jacques
+* Getting a new BMV, this time with doppler?
+
+
+#### 2021-07-11 Already July
+
+* Too much work ;)
+* received first lit3-32 - thanks Silvio and team.
+  * andrew to help on adaptation
+* ft600 support with bogdan
+  * need to put an io for reset ;)
+
+#### 2021-12-11 WTF went these days
+
+
+* Haven't been making boards for a while
+  * damn chip shortage
+  * Prototypes (ft600 et max14866) have been delayed far too long
+  * Let's find a solution soon =)
+* Jorge's onto something for the lit3-32 ?
+* HV modules: https://omnixie.com/products/nch6300hv-nixie-hv-power-module
+  * Trying others from aliexpress
+* fhttps://www.swyx.io/learn-in-public/
+* OS, and maintainers?
+  * https://blog.filippo.io/professional-maintainers/
+  * https://christine.website/blog/open-source-broken-2021-12-11
+
+#### 2022-05-21 Time is passign more and more haha 
+
+* Progressing on the lit3-32 : https://github.com/kelu124/lit3rick/tree/lit3-32/
+* History: sharing the original [murgen files](us_#1_2016_05_04.rar). Dating from May 4th 2016! Where have these 6 years gone ?
+* Starting a substack haha
+* OSH : MRI - new stuff
+  * Newer stuff? Possibly great PMODs to come.
+  * Still need to debug my existing PMODs FT600 haha
+  * What about a nice Msi001 Msi2500 PMOD ? New SDR stuff.
+  * Alternative is CH569 .. great thing. To explore. Maybe for the David friend.
+* Work: starting something new! Cool and busy.
+* Radicalized - Cory
+* https://www.gov.uk/guidance/how-to-document-apis
+
+
+#### 2023-01-28 Time is passing, again more and more haha 
+
+* Progressing on OSH MRI - fast FPGA + USB3, done, yet to receive the pulse and receive (AFE) parts.
+* lit3-32 is going to prod, one batch out.
+* un0rick restarts, first batch since a while
+* Check out the repo content about wulpus and prisma, some new things happenning.
+* Name out soon on an interview, and on a national newspaper?
+* Pissed at Slack cutting history of the chat channels
+* Wireless probe on the way?
+* Moar probes with pyusbus
+* Moar to get
+  * https://ieeexplore.ieee.org/document/9760285 - finger movement recognition
+  * 10.1109/MIM.2022.9693453 - flexible
+
 
 =======
 

@@ -152,3 +152,39 @@
 * code:brd90
 * smalldesc: Bard rite, 9.0MHz.
 * longdesc: Bard rite, 9.0MHz.
+
+# bk1850
+* code:bk1850
+* smalldesc: Bruel & Kjaer endo, support.
+* longdesc: Bruel & Kjaer endo, support.
+
+# kretzir175ag
+* code:kretzir175ag
+* smalldesc: Kretz, 17.5MHz.
+* longdesc: Kretz, 17.5MHz.
+
+# ATLAccessA
+* code:accessa
+* smalldesc: 5MHZ, 6cm FP, ATL mech probe.
+* longdesc: 5MHZ, 6cm FP, ATL mech probe.
+
+# ATLAccessC
+* code:accessc
+* smalldesc: 3MHZ, 4cm FP, ATL mech probe.
+* longdesc: 3MHZ, 4cm FP, ATL mech probe.
+
+# Lumify
+* code:lumify
+* smalldesc: lumify.
+* longdesc: lumify.
+
+# intersonvs35
+* code:intersonvs35
+* smalldesc: Ultrasound Interson VC 3.5MHz USB probe. 
+* longdesc: Ultrasound Interson VC 3.5MHz USB probe.
+
+# ir1510ak
+* code:ir1510ak
+* smalldesc: ir1510ak kretz probe.
+* longdesc: ir1510ak kretz probe.
+
