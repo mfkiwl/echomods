@@ -19,7 +19,7 @@
 * longdesc: a kretz sw45b probe. Interesting mechanical device. Looks like a convex array probe, but mechanical.
 
 # uprobe1
-* code:uProbe1
+* code:uprobe1
 * smalldesc:A small wireless probe from shenzen
 * longdesc:A small wireless probe from shenzen. Couldn't open it, but I added some hacking in the wireless communication.
 
@@ -38,6 +38,11 @@
 * smalldesc:a site rite probe
 * longdesc:Used in the site rite bard systems.
 
+# clarius
+* code:clarius
+* smalldesc:a clarius probe
+* longdesc:a clarius systems.
+* 
 # shzmch
 * code:shzmch
 * smalldesc:a mechanical probe found on shenzen
@@ -82,6 +87,21 @@
 * code:apogee10MHz
 * smalldesc:an Apogee 10MHz probe
 * longdesc:an Apogee 10MHz probe. Diasonics 10.0 SP/C Vascular Mechanical 10.0MHz Probe. For diasonics spectra. 
+
+# atla63
+* code:atla63
+* smalldesc:an ATL A6-3 annular probe
+* longdesc:an ATL A6-3 annular probe
+
+# atl5annular
+* code:atl5annular
+* smalldesc:an ATL 5MHzannular probe
+* longdesc:an ATL 5MHz annular probe
+
+# atlcl105
+* code:atlcl105
+* smalldesc:an ATL linear probe
+* longdesc:an ATL linear annular probe, CL 10-5
 
 # retro10apogee
 * code:retro10apogee
@@ -163,25 +183,35 @@
 * smalldesc: Kretz, 17.5MHz.
 * longdesc: Kretz, 17.5MHz.
 
-# ATLAccessA
+# accessa
 * code:accessa
 * smalldesc: 5MHZ, 6cm FP, ATL mech probe.
 * longdesc: 5MHZ, 6cm FP, ATL mech probe.
 
-# ATLAccessC
+# accessc
 * code:accessc
 * smalldesc: 3MHZ, 4cm FP, ATL mech probe.
 * longdesc: 3MHZ, 4cm FP, ATL mech probe.
 
-# Lumify
+# lumify
 * code:lumify
 * smalldesc: lumify.
 * longdesc: lumify.
 
+# up20
+* code:up20
+* smalldesc: up20.
+* longdesc: up20.
+
 # intersonvs35
 * code:intersonvs35
-* smalldesc: Ultrasound Interson VC 3.5MHz USB probe. 
+* smalldesc: Ultrasound Interson VC 3.5MHz USB probe.
 * longdesc: Ultrasound Interson VC 3.5MHz USB probe.
+
+# wirelessdual
+* code:wirelessdual
+* smalldesc: wirelessdual probe.
+* longdesc:  wirelessdual probe.
 
 # ir1510ak
 * code:ir1510ak

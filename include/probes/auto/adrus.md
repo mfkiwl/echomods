@@ -95,6 +95,10 @@ Exploring the innards of a ADR Ultrasound probe
 teardown
 Exploring the innards of a ADR Ultrasound probe
 
+![](/include/probes/viewmes/adrus.jpg)
+teardown
+Exploring the innards of a ADR Ultrasound probe
+
 
 
 
